@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <food>
+        <type>carb</type>
+        <name>pasta</name>
+        <carb>25</carb>
+        <protein>4</protein>
+        <fat>1</fat>
+        <glutenFree>false</glutenFree>
+    </food>
+    <food>
+        <type>protein</type>
+        <name>tofu</name>
+        <carb>1</carb>
+        <protein>16</protein>
+        <fat>8</fat>
+        <vegetarian>true</vegetarian>
+        <vegan>true</vegan>
+    </food>
+    <food>
+        <type>fat</type>
+        <name>avocado</name>
+        <carb>2</carb>
+        <protein>5</protein>
+        <fat>23</fat>
+        <grassi_saturi>1</grassi_saturi>
+    </food>
+</menu>

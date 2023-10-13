@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <food>
+        <type>fat</type>
+        <name>f1</name>
+        <carb>1</carb>
+        <protein>1</protein>
+        <fat>1</fat>
+        <grassi_saturi>1</grassi_saturi>
+    </food>
+    <food>
+        <type>fat</type>
+        <name>f2</name>
+        <carb>2</carb>
+        <protein>2</protein>
+        <fat>2</fat>
+        <grassi_saturi>10</grassi_saturi>
+    </food>
+</menu>

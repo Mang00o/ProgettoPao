@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <food>
+        <type>protein</type>
+        <name>p1</name>
+        <carb>1</carb>
+        <protein>1</protein>
+        <fat>1</fat>
+        <vegetarian>false</vegetarian>
+        <vegan>false</vegan>
+    </food>
+    <food>
+        <type>protein</type>
+        <name>p2</name>
+        <carb>2</carb>
+        <protein>2</protein>
+        <fat>2</fat>
+        <vegetarian>true</vegetarian>
+        <vegan>true</vegan>
+    </food>
+    <food>
+        <type>protein</type>
+        <name>p3</name>
+        <carb>3</carb>
+        <protein>3</protein>
+        <fat>3</fat>
+        <vegetarian>true</vegetarian>
+        <vegan>false</vegan>
+    </food>
+    <food>
+        <type>protein</type>
+        <name>p4</name>
+        <carb>4</carb>
+        <protein>4</protein>
+        <fat>4</fat>
+        <vegetarian>false</vegetarian>
+        <vegan>true</vegan>
+    </food>
+</menu>
